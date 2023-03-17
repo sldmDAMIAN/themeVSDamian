@@ -17,5 +17,17 @@
         "path": "./themes/Damian Dark Theme-color-theme.json"
       }
     ]
-  }
+  }, 
+    "icon": "icons/128x128.png",
+    "author": {
+      "name": "Gabriel Damian",
+      "email": "chrislive15@hotmail.com",
+      "url": "https://sldmdamian.github.io/portafolio/"
+    },
+    "repository": {
+      "url": "https://github.com/sldmDAMIAN/themeVSDamian",
+      "type": "github"
+    },
+    "publisher": "DevInside"
+  
 }
